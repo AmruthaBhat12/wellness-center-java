@@ -1,2 +1,2 @@
 # wellness-center-java
-#Java mini project
+Java mini project
